@@ -2,7 +2,7 @@
 
 **Source**: [Tutorial](https://socket.io/get-started/chat)
 
-Instruction
+Instructions:
 
 1. git clone
 2. npm install
